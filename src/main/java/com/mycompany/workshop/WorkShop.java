@@ -18,7 +18,7 @@ public class WorkShop {
 
         System.out.println("Welcome to the Calorie Calculator!");
         System.out.println("Welcome to the Calorie Jessica!");
-             System.out.println("Welcome to the WORKSHOP Jessica!");
+             System.out.println("Welcome to the WORK Jessica!");
 
         // Example ingredients and their calorie values
         String[] ingredients = {"apple", "banana", "chicken breast", "rice", "spinach"};
